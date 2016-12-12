@@ -1,0 +1,1 @@
+[2016-10-26 22:18:53] slim-app.ERROR: Error con SQL {"Funcion":"test","MerchantID":"121","Causa":"SQLSTATE[HY000] [1049] Unknown database 'payzi'"} {"uid":"92a81fa"}
